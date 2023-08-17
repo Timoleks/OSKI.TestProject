@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSKI.TestProject", "OSKI.TestProject\OSKI.TestProject.csproj", "{EDA57F14-A2C0-49FE-944D-8043BDAE579C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptiveRecordKit", "AdaptiveRecordKit\AdaptiveRecordKit.csproj", "{F5992992-3D05-4348-BC66-F0843E00367E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA57F14-A2C0-49FE-944D-8043BDAE579C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA57F14-A2C0-49FE-944D-8043BDAE579C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA57F14-A2C0-49FE-944D-8043BDAE579C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA57F14-A2C0-49FE-944D-8043BDAE579C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5992992-3D05-4348-BC66-F0843E00367E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5992992-3D05-4348-BC66-F0843E00367E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5992992-3D05-4348-BC66-F0843E00367E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5992992-3D05-4348-BC66-F0843E00367E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B77FD4-9445-4AC3-8F9A-4B8CF16F6EAD}
+	EndGlobalSection
+EndGlobal
